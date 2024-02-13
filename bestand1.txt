@@ -3,3 +3,5 @@ bestand 1 - regel 2
 bestand 1 - regel 3
 Bugfix
 Aanpassing in main
+
+Aanpassing op computerA

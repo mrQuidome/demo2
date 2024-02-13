@@ -5,4 +5,4 @@ Bugfix
 Aanpassing in main
 
 Aanpassing op computerA
-Ook een aanpassing op B
+nee dit moet het zijn!
